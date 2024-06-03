@@ -47,4 +47,3 @@
 47. 7:34:34 - Probando que el sitio funcione y despliegue todos los formatos de páginas 
 48. 7:51:29 - Creando la página del error 404 
 49. 7:58:54 - Conclusiones y despedida del curso 
-![image](https://github.com/rolando1803/Node.js-y-Express.js---jonmircha/assets/55965131/fc66b495-574d-4413-acb9-462f1856e7e5)
